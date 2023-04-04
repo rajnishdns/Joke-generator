@@ -5,6 +5,7 @@ var jokes = [
     "What do you call a fake noodle? An impasta!",
     "Why don't oysters give to charity? Because they're shellfish!",
     "Why did the math book look sad? Because it had too many problems!",
+    "Why Dasha is so much preety? Because Dasha have so pretty and lovely husband.",
     "Why did the coffee file a police report? It got mugged!",
     "Why did the scarecrow win an award? Because he was outstanding in his field!",
     "Why did the frog call his insurance company? He had a jump in his car!",
@@ -43,6 +44,5 @@ var jokes = [
     "Why Sike fart? Because Sike don't go in toilet.",
     "Why Aklesh don't study Because Aklesh thinks i know everything.",
     "Why Jay Ram change his name to Alex? Because Jay Ram is not cool name.",
-    "Why Rishi thnik it's cool? Because Rishi real name is Nandan.",
-    "Why Dasha is so much preety? Because Dasha have so pretty and lovely husband."
+    "Why Rishi thnik it's cool? Because Rishi real name is Nandan."
 ];  
