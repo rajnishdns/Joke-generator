@@ -1,4 +1,5 @@
 var jokes = [
+    "Why Dasha haven't period yet? Because Dasha's husband made her pregnant.",
     "Why did the tomato turn red? Because it saw the salad dressing!",
     "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels!",
     "Why don't scientists trust atoms? Because they make up everything!",
